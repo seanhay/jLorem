@@ -1,4 +1,4 @@
-# jlorem README
+# jLorem README
 
 ## Features
 
@@ -25,7 +25,10 @@ Still in early test. But seems to work.
 ### 0.2.0
 
 Replace web scraper with own text file parser.
+
 TODO: Improve parsing, add more sources (.txt format), add options menu for more sources
+
+TODO: Learn how to Markdown...
 
 ### 0.1.0
 
