@@ -24,12 +24,15 @@ Still in early test. But seems to work.
 
 ### 0.2.0
 
-Replace web scraper with own text file parser.
+Replace web scraper with own local text file parser.
+Read from local text (夏目漱石 - 吾輩は猫である) file instead of scraping from web source.
 
-TODO: Improve parsing, add more sources (.txt format), add options menu for more sources
+TODO:
 
-TODO: Learn how to Markdown...
+- Improve parsing
+- Add more text sources (and make sure they're clean)
 
 ### 0.1.0
 
 Still a test release... but functional.
+Scrapes from [日本語 Lorem ipsum (sugutsukaeru.jp)](https://lipsum.sugutsukaeru.jp/).
